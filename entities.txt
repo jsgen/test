@@ -1,3 +1,0 @@
-<%each(entities, function(entity, {%>
-- <%=entity.name%>
-<%})%>
